@@ -2,6 +2,8 @@
 
 An example of a HTML/CSS Site created from scratch that follows the theme, Video Gaming Journalism.
 
+![Web Design Showcase](https://github.com/renchung9/pressstartmagazine/blob/main/poster.png?raw=true)
+
 ## Description
 
 Our Client's Aim (Which is Our Aim): 
