@@ -4,7 +4,7 @@ An example of a HTML/CSS Site created from scratch that follows the theme, Video
 
 ## Description
 
-Our Aim: To connect gamers with gaming news in a format that is clear and easily readable.
+Our Client's Aim (Which is Our Aim): To connect gamers with gaming news in a format that is clear and easily readable.
 
 Walkthrough for this Ver: This demo includes only the home page for now. It showcases a header that has a video playing in the background, links to the different main pages of the site. Links to gaming articles, an 'About Us', and a footer with social media links.
 
